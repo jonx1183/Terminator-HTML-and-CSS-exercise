@@ -1,0 +1,5 @@
+body {background-color: darkred; font-family: "Comic Sans MS"}
+h1 {background-color: aqua; color : crimson }
+p {color: aqua; font-size: large}
+#container {border: solid 2px; width: 1650px; margin : 0 auto}
+#divArnold {border: solid 2px white; text-align: center}
