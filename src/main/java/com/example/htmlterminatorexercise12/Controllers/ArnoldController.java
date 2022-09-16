@@ -19,4 +19,9 @@ public class ArnoldController {
     return "test";
   }
 
+  @GetMapping("/box")
+  public String box(){
+    return "boxes";
+  }
+
 }

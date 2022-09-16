@@ -1,0 +1,4 @@
+body { background-color: purple}
+h1 { background-color: greenyellow; border: solid 5px white; height: 200px}
+p { background-color: white; position: relative; top : -150px; left: 84px; height: 80px; width: 1000px; margin-top: -50px }
+#con1 { text-align: center; }
